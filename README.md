@@ -11,4 +11,4 @@ A simple real-time chat application built with Node.js, Express, and Socket.IO f
 ## Tech Stack
 - Node.js & Express
 - Socket.IO
-- HTML, CSS (Tailwind optional), JavaScript
+- HTML, CSS, JavaScript
